@@ -12,4 +12,4 @@ An interactive photo slider showcasing scenic river views from October 30, 2023,
 HTML5, CSS3
 
 ## Preview
-![Preview Image](preview.jpg)
+![Preview Image](preview.png)
